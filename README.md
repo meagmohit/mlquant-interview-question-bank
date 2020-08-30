@@ -15,8 +15,40 @@ Question bank for ML/Quant Interviews
 * [[Microsoft]](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b)
 * [[Amazon]](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6)
 * [[Amazon-2]](https://www.interviewquery.com/blog-amazon-machine-learning-interview-questions-solutions)
+* [[Google]](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f)
 * [[Coursera ML Quiz]](https://github.com/ngavrish/coursera-machine-learning-1/tree/master/quiz)
 * [[Iamtodor]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
+* [[30 questions on Logistic Regression]](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)
+* [[30 questions on Linear Regression]](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
+* [[30 questions on Trees]](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
+* [[30 questions on kNN]](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
+* [[25 questions on SVM]](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
+* [[40 questions on dimensionality reduction]](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
+* [[40 questions on clustering]](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
+* [[40 questions on DL]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
+* [[21 questions on DL]](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/)
+* [[25 questions on DL]](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61)
+* [[45 questions on DL]](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+* [[30 questions on DL]](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
+* [[40 questions on DL]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
+* [[25 questions on Image Processing]](https://www.analyticsvidhya.com/blog/2017/10/image-skilltest/)
+* [[12 faq on DL]](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/)
+* [[top-30 data science questions]](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
+* [[35 data science questions]](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [[100 data science across faang]](https://medium.com/@e22aafa7d95/c5a66186769a)
+* [[41 data science questions]](https://www.springboard.com/blog/machine-learning-interview-questions/)
+* [[41 data science ques]](https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/)
+* [[109 data science questions]](https://www.springboard.com/blog/data-science-interview-questions/)
+* [[60 questions on ML]](https://analyticsindiamag.com/60-interview-questions-on-machine-learning/)
+* [[100 basic on ML]](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
+* [[40 questions on startups]](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
+* [[40 questions on data science]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/)
+* [[30 questions on NLP]](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
+* [[120 data science questions]](https://github.com/kojino/120-Data-Science-Interview-Questions)
+* [[25 fun ML questions]](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
+
+
+
 
 
 ## Probability/Statistics/Combinatorics
@@ -24,6 +56,11 @@ Question bank for ML/Quant Interviews
 * Green Book [Chapter 4-5]
 * [[40 Statistics Questions]](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee)
 * [[Quantitative Primer]](https://github.com/dwcoder/QuantitativePrimer)
+* [[40 probability questions]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
+* [[40 statistics questions]](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee)
+* [[7 questions on correlation]](https://www.analyticsvidhya.com/blog/2015/06/correlation-common-questions/)
+
+
 
 ## Basic Maths and Linear Algebra
 * Green Book [Chapter 3]
