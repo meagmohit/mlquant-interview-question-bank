@@ -63,6 +63,9 @@ Question bank for ML/Quant Interviews
 * [[40 probability questions]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 * [[40 statistics questions]](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee)
 * [[7 questions on correlation]](https://www.analyticsvidhya.com/blog/2015/06/correlation-common-questions/)
+* Quant Job Interview Questions and Answers by Mark Joshi et. al.
+* Heard on the Street: Quantitative Questions from Wall Street Job Interviews
+* Frequently Asked Questions in Quantitative Finance by Paul Wilmott
 
 
 
