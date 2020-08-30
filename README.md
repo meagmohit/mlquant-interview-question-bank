@@ -66,8 +66,7 @@ Question bank for ML/Quant Interviews
 * Green Book [Chapter 3]
 
 ## Unfiltered
-* https://github.com/rbhatia46/Data-Science-Interview-Resources
-* https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
+
 
 * https://www.reddit.com/r/MachineLearning/comments/7wst07/d_study_guides_for_interview_at_ai_research/
 
