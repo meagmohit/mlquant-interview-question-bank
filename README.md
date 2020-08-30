@@ -46,6 +46,9 @@ Question bank for ML/Quant Interviews
 * [[30 questions on NLP]](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
 * [[120 data science questions]](https://github.com/kojino/120-Data-Science-Interview-Questions)
 * [[25 fun ML questions]](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
+* [[55 questions]](https://github.com/andrewekhalel/MLQuestions)
+* [[more questions]](https://github.com/Sroy20/machine-learning-interview-questions)
+* [[ML Screen Guide]](https://docs.google.com/document/d/148hyUHe5p0k0Xk6T4jF_ZOsJFwRviofM5SSUPiFyuMk/edit#)
 
 
 
