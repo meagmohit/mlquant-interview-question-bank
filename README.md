@@ -21,7 +21,7 @@ Question bank for ML/Quant Interviews
 * [[Iamtodor]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 * [[30 questions on Logistic Regression]](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)
 * [[30 questions on Linear Regression]](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
-* [[30 questions on Trees]](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
+* **Trees** [[30 questions]](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) [[45 questions]](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
 * [[30 questions on kNN]](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 * [[25 questions on SVM]](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * [[40 questions on dimensionality reduction]](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
