@@ -59,6 +59,8 @@ Question bank for ML/Quant Interviews
 ## Probability/Statistics/Combinatorics
 * Introduction to Probability by Bertsekas [Chapter 1-9, problems and solutions]
 * Green Book [Chapter 4-5]
+* [[LSU-Quant Interview Prep Bank]](https://www.math.lsu.edu/~smolinsk/Quant_Interview_Prep.pdf)
+* [[Quant FAQ]](https://www.wallstreetoasis.com/forums/the-massive-list-of-tradingquant-questions-sig-jane-street-citadel-goldman)
 * [[40 Statistics Questions]](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee)
 * [[Quantitative Primer]](https://github.com/dwcoder/QuantitativePrimer)
 * [[40 probability questions]](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
