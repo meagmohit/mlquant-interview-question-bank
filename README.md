@@ -17,7 +17,7 @@ Question bank for ML/Quant Interviews
 * [[Microsoft]](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b)
 * **Amazon:** [[Amazon]](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6) [[Amazon-2]](https://www.interviewquery.com/blog-amazon-machine-learning-interview-questions-solutions) [[Amazon-3]](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f) [[Amazon-4]](http://suyiwang125.blogspot.com/2015/04/amazon.html)
 * **Apple** [[Apple-AI]](https://medium.com/acing-ai/apple-ai-interview-questions-acing-the-ai-interview-803a65b0e795)
-* **Google** [[Google-1]](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f) [[Google-2]](https://gist.github.com/amaxwell01/3728155)
+* **Google** [[Google-1]](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f) [[Google-2]](https://gist.github.com/amaxwell01/3728155) [[Google-3]](https://www.interviewquery.com/blog-google-data-science-interview-questions-and-solutions/)
 * [[Coursera ML Quiz]](https://github.com/ngavrish/coursera-machine-learning-1/tree/master/quiz)
 * [[Iamtodor]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 * [[30 questions on Logistic Regression]](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)
