@@ -51,6 +51,7 @@ Question bank for ML/Quant Interviews
 * [[55 questions]](https://github.com/andrewekhalel/MLQuestions)
 * [[more questions]](https://github.com/Sroy20/machine-learning-interview-questions)
 * [[ML Screen Guide]](https://docs.google.com/document/d/148hyUHe5p0k0Xk6T4jF_ZOsJFwRviofM5SSUPiFyuMk/edit#)
+* [[CS-189 ML Exams and Solutions]](http://snasiriany.me/cs189/)
 
 
 
@@ -69,6 +70,7 @@ Question bank for ML/Quant Interviews
 * Quant Job Interview Questions and Answers by Mark Joshi et. al.
 * Heard on the Street: Quantitative Questions from Wall Street Job Interviews
 * Frequently Asked Questions in Quantitative Finance by Paul Wilmott
+* Larry CMU All of Stats Q/A: [[1]](http://www.stat.cmu.edu/~larry/=stat325.02/)
 
 
 
