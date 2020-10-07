@@ -1,7 +1,13 @@
 # mlquant-interview-question-bank
 Question bank for ML/Quant Interviews
 
-## Assorted ML
+## My favorites 
+* CS189 UCB Exams and Solutions: [[All]](https://tbp.berkeley.edu/courses/cs/189/) [[Spring'16]](https://people.eecs.berkeley.edu/~jrs/189s16/exam/finals16.pdf)
+* CS188 UCB Exams and Solutions: [[All]](https://edge.edx.org/courses/course-v1:Berkeley+CS188+SP17/da534968355145c3839637c0e3c764a2/)
+* 10-601 CMU Exams and Solutions: [[Midterm'12]](http://www.cs.cmu.edu/~tom/10601_fall2012/exams/final_solutions.pdf)
+* 10-701 CMU Exams and Solutions: [[HW-2]](http://www.cs.cmu.edu/~tom/10601_fall2012/exams/final_solutions.pdf) [[Midterm Spring'17]](https://www.cs.cmu.edu/~epxing/Class/10701/exams/midterm2007s-solution.pdf)
+
+## Assorted ML [Exhaustive List]
 * **ISLR Problems:** [[Sols-1]](http://yahwes.github.io/ISLR/) [[Sols-2]](https://blog.princehonest.com/stat-learning/)
 * [[CS229 Assignments]](http://cs229.stanford.edu/syllabus-summer2020.html)
 * [[ML, Maths and Stats]](https://rstudio-pubs-static.s3.amazonaws.com/172473_91262a8a4188445a8b5e81d5d31c7731.html)
@@ -52,6 +58,9 @@ Question bank for ML/Quant Interviews
 * [[more questions]](https://github.com/Sroy20/machine-learning-interview-questions)
 * [[ML Screen Guide]](https://docs.google.com/document/d/148hyUHe5p0k0Xk6T4jF_ZOsJFwRviofM5SSUPiFyuMk/edit#)
 * [[CS-189 ML Exams and Solutions]](http://snasiriany.me/cs189/)
+* [[Basic Q/A]](https://github.com/kalperen/MachineLearningGuide) 
+* [[More on DTs]](https://akramz.github.io/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/06.Decision_Trees)
+
 
 
 
