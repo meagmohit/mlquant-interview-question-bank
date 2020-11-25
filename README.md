@@ -60,7 +60,7 @@ Question bank for ML/Quant Interviews
 * [[CS-189 ML Exams and Solutions]](http://snasiriany.me/cs189/)
 * [[Basic Q/A]](https://github.com/kalperen/MachineLearningGuide) 
 * [[More on DTs]](https://akramz.github.io/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/06.Decision_Trees)
-
+* [[Maths/Algo puzzles]](http://godplaysdice.blogspot.com/)
 
 
 
