@@ -87,7 +87,7 @@ Question bank for ML/Quant Interviews
 * Green Book [Chapter 3]
 
 ## Unfiltered
-
-
+* https://github.com/andyhu4023/Quant-Interview-Question-Bank
+* https://github.com/mikinty/Trading-Interview-Questions
 * https://www.reddit.com/r/MachineLearning/comments/7wst07/d_study_guides_for_interview_at_ai_research/
 
